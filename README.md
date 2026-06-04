@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Purva Kamlesh Nerkar
 ============================================================================================================================================
 
-Full Stack Web Developer , Java Programmer
+Full Stack Web Developer
 ------------------------------------------
 
 As an ambitious undergraduate, I specialize in data structures, algorithms, and front-end web development, showcasing a strong foundation in creating efficient and cutting-edge solutions. I am actively seeking a developer role where I can leverage my proven skills and contribute to a dynamic team environment.
